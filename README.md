@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmarvelous078
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 👀 I’m a full stack software engineer
+- 🌱 I build full-stack software solutions
 
 
 <!---
